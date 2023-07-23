@@ -4,4 +4,8 @@ this is my java file
 1st line of java code by dev A
 2nd line of java code by dev B
 3rd line of java code by dev A
+<<<<<<< HEAD
 4th line
+=======
+4th line of java code by dev B
+>>>>>>> c92d0cd7e08b7113e74358b082d3477538b64553
